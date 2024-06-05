@@ -1,6 +1,6 @@
 describe("Landing page", () => {
   beforeEach(() => {
-    const url = "http://127.0.0.1:5500/index.html";
+    const url = "https://resume.evefonwu.com";
     cy.visit(url);
   });
 
